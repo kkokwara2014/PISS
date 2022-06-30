@@ -1,0 +1,22 @@
+#form input {
+  border: none;
+  outline: none;
+}
+
+.input-row {
+  border-bottom: solid 1px lightgrey !important;
+}
+
+.submit-row button {
+  border-radius: 0px;
+  border: none;
+}
+
+.submit-row button:hover {
+  background-color: rgb(0,146,198) !important;
+}
+
+*:focus {
+  outline: none;
+}
+
